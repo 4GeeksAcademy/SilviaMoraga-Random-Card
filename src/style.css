@@ -1,1 +1,14 @@
 @import "~bootstrap/dist/css/bootstrap.min.css";
+
+body {
+  background-color: green;
+}
+
+#card {
+  width: 28.346rem;
+  height: 42.52rem;
+  margin-top: 100px;
+  background-color: white;
+  border: 1px solid;
+  border-radius: 10px;
+}
